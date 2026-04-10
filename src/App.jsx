@@ -24,3 +24,8 @@ export default function App() {
     </>
   )
 }
+
+
+
+//git working -> git status (list changes)
+            //   git add. |  git commit -m "message"  | git push 

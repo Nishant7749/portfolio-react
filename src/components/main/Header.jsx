@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom"
 function Header() {
   return(
   <>
-  <div className='bg-black text-white w-full h-20 flex justify-between items-center'>
+  <div className='bg-black text-white w-full h-20 flex justify-between items-center dark:bg-white dark:text-black'>
     <img className='pl-8 w-20 h-10 drop-shadow-gray-300 drop-shadow-sm' src="https://plus.unsplash.com/premium_photo-1675876811802-fed0becd1e40?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8biUyMGxvZ298ZW58MHx8MHx8fDA%3D" alt="logo" />
 
   <nav>
