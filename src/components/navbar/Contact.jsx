@@ -6,7 +6,7 @@ function Contact() {
   return (
     <>
 
-      <div className='h-150 flex flex-col items-center'>
+      <div className='h-150 flex flex-col items-center m-4'>
         <h1 className='text-5xl text-center m-5'>Contact Us</h1>
 
         <div>
